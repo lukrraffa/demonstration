@@ -1,4 +1,4 @@
 # example
 
-- Learning github
+- Learning 
 - Testando pull
